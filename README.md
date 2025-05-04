@@ -1,2 +1,3 @@
-# Data_-Analysis_Dashboard
-In this project, I conducted a comprehensive exploratory data analysis (EDA) on a real-world dataset to uncover meaningful insights and trends. I was responsible for the entire analytical process — from data cleaning and preprocessing to visualization and interpretation. 
+# Risk analytics in banking and financial services
+# Project Objective
+With our dashboards which are created using Power BI latest tools helps the company to make a decision based on the applicant’s profile like if the applicant is likely to repay the loan then approving the loan otherwise not.

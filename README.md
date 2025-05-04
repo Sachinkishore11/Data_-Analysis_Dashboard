@@ -4,8 +4,8 @@ With our dashboards which are created using Power BI latest tools helps the comp
 # Dataset used
 here - "https://github.com/Sachinkishore11/Data_-Analysis_Dashboard/blob/main/Banking.csv">Dataset</a>
 # Dashboard
-here - "https://github.com/Sachinkishore11/Data_-Analysis_Dashboard/blob/main/Dashboard%20summary.png"> Dashboard_summary</a>
-here - "https://github.com/Sachinkishore11/Data_-Analysis_Dashboard/blob/main/deposit%20analysis.png"> Dashboard_analysis</a>
+here - "https://github.com/Sachinkishore11/Data_-Analysis_Dashboard/blob/main/Dashboard%20summary.png"> view Dashboard_summary</a>
+here - "https://github.com/Sachinkishore11/Data_-Analysis_Dashboard/blob/main/deposit%20analysis.png"> view Dashboard_analysis</a>
 
 # Insights
 the strongest positive correlation occurs among Bank deposits with checking accounts, saving accounts and foreign currency accounts indicating the customers who mainly high balances in one account type often hold substantial amount / funds across other account as wel
